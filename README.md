@@ -1,5 +1,3 @@
-Project Overview:<br>
-This project fetches data for each task from JSON Placeholder when clicked by a user. It displays the details on the right panel and offers two options: deleting the task or marking it as completed. Completed tasks are then stored in another placeholder designated for completed tasks.
 
 Installation
 To install node modules and dependencies, run:
